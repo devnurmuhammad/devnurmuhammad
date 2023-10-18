@@ -21,4 +21,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=devnurmuhammad&icon=5&color=0)](https://visitcount.itsvg.in)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/berdikulov-571/count.svg" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
