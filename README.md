@@ -1,5 +1,5 @@
-# 💫 About Me:
-🙋🏻‍♂️ My name is Nurmuhammad<br>✍🏻 Graduated Najot Ta'lim<br>🌱 I’m currently learning the .NET, SQL, WebAPI<br>
+# 💫 About Me: Software .NET Engineer
+🙋🏻‍♂️ My name is Nurmuhammad<br>✍🏻 Graduated Najot Ta'lim<br>🌱<br>
  
 
 #👨‍💻 Programming Languages:
