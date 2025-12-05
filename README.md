@@ -21,12 +21,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devnurmuhammad&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=devnurmuhammad&icon=5&color=0)](https://visitcount.itsvg.in)
-
 
 <div> 
  <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
