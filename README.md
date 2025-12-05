@@ -18,9 +18,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devnurmuhammad&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devnurmuhammad&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/berdikulov-571/count.svg" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
